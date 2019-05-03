@@ -1,2 +1,1 @@
-# config-server-repo
-For storing my config files
+https://pivotal.io/application-transformation-recipes/app-architecture/setting-up-spring-config-server
