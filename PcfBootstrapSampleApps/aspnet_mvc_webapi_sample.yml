@@ -1,0 +1,4 @@
+---
+appSettings:
+  key1: "key1 value coming from configserver repo"
+---
