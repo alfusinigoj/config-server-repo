@@ -1,0 +1,4 @@
+---
+connectionStrings:
+  conn1: "conn1 for configuration_sample, value coming from configserver repo - dev"
+---

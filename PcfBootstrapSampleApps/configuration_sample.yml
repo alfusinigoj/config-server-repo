@@ -1,0 +1,4 @@
+---
+appSettings:
+  key1: "key1 for configuration_sample, value coming from configserver repo"
+---
