@@ -1,0 +1,5 @@
+---
+connectionStrings:
+  conn1: "conn1 for pcf_bootstrap_all_sample, value coming from configserver repo - dev"
+  secretConn: "Data Source=myServer;Initial Catalog=myDataBase;User ID=${vcap:services:credhub:0:credentials:db1username};Password=${vcap:services:credhub:0:credentials:db1password};"
+---
