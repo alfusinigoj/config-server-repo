@@ -1,0 +1,6 @@
+---
+appSettings:
+  key2key: "key2key for sample app, value coming from configserver repo - dev environment"
+connectionStrings:
+  conn3conn: "conn3.conn coming from config repo- dev environment"
+---

@@ -1,0 +1,9 @@
+---
+appSettings:
+  key1: "key1 for sample app, value coming from configserver repo"
+foobar:
+  xyz:
+    key: "foobar xyz key coming from config server"
+connectionStrings:
+  conn1: "conn1 coming from config repo"
+---
